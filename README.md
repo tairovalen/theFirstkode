@@ -5,7 +5,7 @@ You CAN find a playlist of videos about git by [link](https://www.youtube.com/wa
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
-def greet(name)
+Def greet(name)
   puts "Hello, #{name}!"
 end
 greet("Ruby")
