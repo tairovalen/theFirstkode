@@ -1,7 +1,7 @@
 # theFirstkode
 Your first task: create a new repository, create a README.nd file and upload another file.
 You CAN find a playlist of videos about git by [link](https://www.youtube.com/watch?v=GzvIk9ug1hc)
-## Front_end Developer stack:
+## Front-end Developer stack:
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
